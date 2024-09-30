@@ -52,7 +52,12 @@ print("\nPredictions:\n", Y_pred[:5])
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/1b021b17-ddb7-41e3-b6be-56d8747d98c4)
+
+## mean square error
+![image](https://github.com/user-attachments/assets/ec53c6bb-7d14-454e-8416-195aefbf36a1)
+
+## predictions
+![image](https://github.com/user-attachments/assets/e4c21086-36b8-43db-95e7-9ec3959d1cdc)
 
 
 ## Result:
